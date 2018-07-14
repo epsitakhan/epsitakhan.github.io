@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Blogpost"
+title:  "Second Blogpost"
 date:   2018-07-13 15:01:08 +0530
 categories: Sample 1
 ---
