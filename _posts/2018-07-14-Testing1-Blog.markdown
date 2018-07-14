@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Blogpost"
-date:   2018-07-13 15:01:08 +0530
+date:   2018-07-14 15:01:08 +0530
 categories: Sample 1
 ---
 SAMPLE Post2( Franz Kafka Story)
